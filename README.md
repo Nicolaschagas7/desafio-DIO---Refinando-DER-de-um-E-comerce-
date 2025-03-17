@@ -1,7 +1,7 @@
 # desafio da DIO Refinando projeto conceitual de um E-comerce
 
 ## **Descrição do Projeto**  
-Este projeto apresenta um **Modelo Entidade-Relacionamento Aprimorado (MER)** para um sistema de **e-commerce**, que foi inicialmente desenvolvido pela professora e aprimorado como parte do desafio proposto. O objetivo do modelo é organizar a estrutura do banco de dados para gerenciar clientes, pedidos, produtos, fornecedores, estoque, pagamentos e entregas de forma eficiente.  
+Este projeto apresenta um **Modelo Entidade-Relacionamento Aprimorado (MER)** para um sistema de **e-commerce**, que foi inicialmente desenvolvido pela instrutora juliana e aprimorado como parte do **desafio "Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE" ofertado pela Digital inovation one(DIO)**. O objetivo do modelo é organizar a estrutura do banco de dados para gerenciar clientes, pedidos, produtos, fornecedores, estoque, pagamentos e entregas de forma eficiente.  
 
 O aprimoramento realizado incluiu:  
 - **Criação da entidade "Pagamentos"** para registrar os detalhes das transações realizadas pelos clientes.  
